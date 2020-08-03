@@ -1,2 +1,2 @@
 # EXTENSIONREADER.py
- reading the extension of the user input
+ reading the extension of the user inputed filename
